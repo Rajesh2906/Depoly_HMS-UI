@@ -3,8 +3,7 @@ import "./App.css";
 import {
   BrowserRouter as Router,
   Route,
-  Routes,
-  useLocation 
+  Routes
 } from "react-router-dom";
 import Home from "./components/Home";
 import OwnerLogin from "./owner/OwnerLogin";
@@ -87,17 +86,11 @@ import ManagerPrivateRoute from "./manager/components/ManagerPrivateRoute";
   
 function App() {
 
-    // Get the location using useLocation hook
-    const location = useLocation();
-
-    // Determine the base URL dynamically based on the current location
-    const baseUrl = location.pathname;
-
   return (
     <div>
   
       {/* This is the alias of BrowserRouter i.e. Router */}
-      <Router basename={baseUrl}>
+      <Router basename="/Depoly_HMS-UI">
         <Routes>
           <Route path="/" element={<Home/>} />        
           <Route path="/receptionistlogin/*" element={<RecepLogin/>} />               
