@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Depoly_HMS-UI/static/css/main.ba2c59b7.css",
-    "main.js": "/Depoly_HMS-UI/static/js/main.5fc51957.js",
+    "main.js": "/Depoly_HMS-UI/static/js/main.de536043.js",
     "static/js/787.8f1b958f.chunk.js": "/Depoly_HMS-UI/static/js/787.8f1b958f.chunk.js",
     "static/media/About.png": "/Depoly_HMS-UI/static/media/About.7937feb54c0f51e96806.png",
     "static/media/ownerhome.jpg": "/Depoly_HMS-UI/static/media/ownerhome.52432204b302b672efdf.jpg",
@@ -52,11 +52,11 @@
     "static/media/right-arrow.svg": "/Depoly_HMS-UI/static/media/right-arrow.8b8fb639d7ed68731e5b073c0700d3bf.svg",
     "index.html": "/Depoly_HMS-UI/index.html",
     "main.ba2c59b7.css.map": "/Depoly_HMS-UI/static/css/main.ba2c59b7.css.map",
-    "main.5fc51957.js.map": "/Depoly_HMS-UI/static/js/main.5fc51957.js.map",
+    "main.de536043.js.map": "/Depoly_HMS-UI/static/js/main.de536043.js.map",
     "787.8f1b958f.chunk.js.map": "/Depoly_HMS-UI/static/js/787.8f1b958f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ba2c59b7.css",
-    "static/js/main.5fc51957.js"
+    "static/js/main.de536043.js"
   ]
 }
